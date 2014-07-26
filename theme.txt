@@ -5,18 +5,18 @@ status.error.fgcolor = #ffffff
 status.error.bgcolor = #e34c00
 status.edit.fgcolor = #000000
 status.edit.bgcolor = #f1b500
-status.font = SansSerif,plain,12
-#status.font.macosx = Helvetica,plain,12
+status.font = processing.sans,plain,14
 
-# GUI - TABS
-# settings for the tabs at the top
-header.bgcolor = #333333
-header.hide.color = #000000
+# TABS
+# Settings for the tab area at the top.
+header.bgcolor = #000000
+#header.hide.image = false # in preferences.txt
+header.hide.color = #0E1B25
 header.text.selected.color = #000000
-header.text.unselected.color = #000000
+header.text.unselected.color = #ffffff
 header.text.font = processing.sans,plain,14
-header.tab.selected.color = #cc9900
-header.tab.unselected.color = #666666
+header.tab.selected.color = #a2afba
+header.tab.unselected.color = #2a4159
 
 # GUI - CONSOLE
 # font is handled by preferences, since size/etc is modifiable
